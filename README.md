@@ -6,6 +6,9 @@ This is a simple arithmetic calculator built with the React library, Typescript 
 
 In the project directory, you can run:
 
+### `npm install`
+Installs all the project dependencies
+
 ### `npm start`
 
 Runs the app in the development mode.\
